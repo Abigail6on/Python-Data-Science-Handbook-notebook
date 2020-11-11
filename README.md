@@ -1,10 +1,9 @@
 # Python-Data-Science-Handbook-notebook
 Data Camp notes and projects
 
-
+***
 # Introduction to Probability
 ## [MIT open course](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
-***
 ### [Part I: The Fundamentals](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/)
 - [x] Lecture 1: Probability Models and Axioms
 - [x] Lecture 1 Supplement: Mathematical Background
