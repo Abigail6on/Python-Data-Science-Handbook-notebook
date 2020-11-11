@@ -27,3 +27,16 @@ Data Camp notes and projects
 - [x] Lecture 18: Inequalities, Convergence, and the Weak Law of Large Numbers
 - [x] L19.1 Lecture Overview
    * 2020-11-10
+
+
+***
+# Linear Algebra
+## [MIT open course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [x] The Geometry of Linear Equations
+- [x] Elimination with Matrices
+- [x] Multiplication and Inverse Matrices
+- [x] Factorization into A = LU
+- [x] Transposes, Permutations, Spaces R^n
+- [x] Column Space and Nullspace
+- [ ] Solving Ax = 0: Pivot Variables, Special Solutions
+    * 2020-11-10
