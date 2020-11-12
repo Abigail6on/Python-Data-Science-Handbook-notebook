@@ -27,6 +27,7 @@ Data Camp notes and projects
 - [x] Lecture 18: Inequalities, Convergence, and the Weak Law of Large Numbers
 - [x] Lecture 19: The Central Limit Theorem (CLT)
 - [ ] Lecture 20: An Introduction to Classical Statistics
+      * 2020-11-11
 
 
 ***
