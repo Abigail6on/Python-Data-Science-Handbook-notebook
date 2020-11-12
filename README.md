@@ -25,8 +25,8 @@ Data Camp notes and projects
 - [x] Lecture 16: Least Mean Squares (LMS) Estimation
 - [x] Lecture 17: Linear Least Mean Squares (LLMS) Estimation
 - [x] Lecture 18: Inequalities, Convergence, and the Weak Law of Large Numbers
-- [x] L19.1 Lecture Overview
-   * 2020-11-10
+- [x] Lecture 19: The Central Limit Theorem (CLT)
+- [ ] Lecture 20: An Introduction to Classical Statistics
 
 
 ***
