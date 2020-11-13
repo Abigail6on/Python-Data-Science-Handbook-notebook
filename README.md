@@ -42,3 +42,15 @@ Data Camp notes and projects
 - [x] Solving Ax = 0: Pivot Variables, Special Solutions
 - [ ] 8. Solving Ax = b: Row Reduced Form R
      * 2020-11-13
+
+
+*** 
+# Topics in Mathematics with Applications in Finance
+## [MIT open course](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
+- [x] Lecture 1: Introduction, Financial Terms and Concepts
+- [x] Lecture 2: Linear Algebra
+- [x] Lecture 3: Probability Theory
+- [ ] Lecture 5: Stochastic Processes I
+     * 2020-11-13
+- [ ] Lecture 6: Regression Analysis
+- [ ] Lecture 7: Value At Risk (VAR) Models
