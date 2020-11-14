@@ -57,3 +57,10 @@ Data Camp notes and projects
      * 2020-11-13
 - [ ] Lecture 6: Regression Analysis
 - [ ] Lecture 7: Value At Risk (VAR) Models
+
+*** 
+# Quantopian Lecture Series
+## [Open sourse lecture](https://www.youtube.com/playlist?list=PLRFLF1OxMm_UL7WUWM31iynp0jMVf_vLW)
+- [ ] Introduction to Research 
+     * 2020-11-13
+
