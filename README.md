@@ -64,3 +64,7 @@ Data Camp notes and projects
 - [ ] Introduction to Research 
      * 2020-11-13
 
+
+*** 
+## Reference:
+[Statistics is FUN!](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
