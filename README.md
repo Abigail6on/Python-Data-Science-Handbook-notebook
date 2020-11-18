@@ -50,19 +50,11 @@ Data Camp notes and projects
 *** 
 # Topics in Mathematics with Applications in Finance
 ## [MIT open course](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
-- [x] Lecture 1: Introduction, Financial Terms and Concepts
-- [x] Lecture 2: Linear Algebra
-- [x] Lecture 3: Probability Theory
-- [ ] Lecture 5: Stochastic Processes I
-     * 2020-11-13
-- [ ] Lecture 6: Regression Analysis
-- [ ] Lecture 7: Value At Risk (VAR) Models
+
 
 *** 
 # Quantopian Lecture Series
 ## [Open sourse lecture](https://www.youtube.com/playlist?list=PLRFLF1OxMm_UL7WUWM31iynp0jMVf_vLW)
-- [ ] Introduction to Research 
-     * 2020-11-13
 
 
 *** 
