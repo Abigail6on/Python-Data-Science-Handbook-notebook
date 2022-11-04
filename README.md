@@ -41,7 +41,7 @@ Data Camp notes and projects
 - [x] Transposes, Permutations, Spaces R^n
 - [x] Column Space and Nullspace
 - [x] Solving Ax = 0: Pivot Variables, Special Solutions
-- [ ] 8. Solving Ax = b: Row Reduced Form R
+- [x] 8. Solving Ax = b: Row Reduced Form R
      * 2020-11-13
 
 
